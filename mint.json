@@ -36,10 +36,6 @@
     {
       "name": "Latest updates",
       "url": "latest-updates-url"
-    },
-    {
-      "name": "Support",
-      "url": "support-url"
     }
   ],
   "anchors": [
