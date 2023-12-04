@@ -67,7 +67,7 @@
     },
     {
       "group": "CDL exams",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation", "essentials/navigation"]
+      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation", "essentials/requirements"]
     },
     {
       "group": "CDL education",
