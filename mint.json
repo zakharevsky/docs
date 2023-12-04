@@ -79,11 +79,7 @@
       "group": "Maintaining your CDL",
       "pages": ["maintain/renew", "maintain/medical-exams", "maintain/upgrades"]
     },
-    {
-      "group": "CDL education",
-      "pages": ["essentials/navigation", "essentials/requirements"]
-    }
-  ],
+
   "footerSocials": {
     "twitter": "https://twitter.com/mintlify",
     "github": "https://github.com/mintlify",
