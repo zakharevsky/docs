@@ -46,4 +46,28 @@
     {
       "name": "CDL practice tests",
       "icon": "book-open-cover",
-      "url": "https://driving-tests.org/cdl-practice-test
+      "url": "https://driving-tests.org/cdl-practice-test/"
+    }
+  ],
+  "navigation": [
+    {
+      "group": "Getting a CDL",
+      "pages": ["introduction", "what-is-cdl-definition", "requirements-eligibility", "application-process", "study-materials", "fees-costs"]
+    },
+    {
+      "group": "CDL types",
+      "pages": ["cdl-types/classification", "cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", "cdl-types/endorsements/introduction"]
+    },
+    {
+      "group": "CDL exams",
+      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings"]
+    },
+    {
+      "group": "Maintaining your CDL",
+      "pages": ["maintain/renew", "maintain/medical-exams", "maintain/upgrades"]
+    }
+  ],
+  "footerSocials": {
+    "twitter": "https://twitter.com/mintlify"
+  }
+}
