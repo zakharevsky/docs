@@ -65,7 +65,7 @@
   "navigation": [
     {
       "group": "Getting a CDL",
-      "pages": ["introduction", "application-process", "quickstart", "application-process", "fees-costs", "development"]
+      "pages": ["introduction", "quickstart", "application-process", "fees-costs", "development"]
     },
     {
       "group": "CDL types",
