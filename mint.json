@@ -63,11 +63,7 @@
     },
     {
       "group": "CDL types",
-      "pages": [
-        "api-reference/endpoint/get",
-        "api-reference/endpoint/create",
-        "api-reference/endpoint/delete"
-      ]
+      "pages": ["api-reference/endpoint/get", "api-reference/endpoint/create", "api-reference/endpoint/delete"]
     },
     {
       "group": "CDL exams",
