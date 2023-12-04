@@ -65,7 +65,7 @@
   "navigation": [
     {
       "group": "Getting a CDL",
-      "pages": ["introduction", "requirements-eligibility", "application-process", "study-materials", "fees-costs"]
+      "pages": ["introduction", "what-is-cdl-definition", "requirements-eligibility", "application-process", "study-materials", "fees-costs"]
     },
     {
       "group": "CDL types",
