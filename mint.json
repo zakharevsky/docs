@@ -30,11 +30,11 @@
       "name": "About CDL",
       "url": "api-reference"
     }
-    {
+    , {
       "name": "Latest updates",
       "url": "api-reference"
     }
-    {
+    , {
       "name": "Support",
       "url": "api-reference"
     }
