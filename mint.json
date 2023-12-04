@@ -27,13 +27,13 @@
   },
   "tabs": [
     {
-      "name": "API Reference 2",
+      "name": "About CDL",
       "url": "api-reference"
     }
   ],
   "anchors": [
     {
-      "name": "Documentation 2",
+      "name": "Documentation",
       "icon": "book-open-cover",
       "url": "https://mintlify.com/docs"
     },
