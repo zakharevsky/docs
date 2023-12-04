@@ -58,19 +58,19 @@
   ],
   "navigation": [
     {
-      "group": "Get Started",
+      "group": "Getting a CDL",
       "pages": ["introduction", "quickstart", "development"]
     },
     {
-      "group": "Essentials",
+      "group": "CDL exams",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings", "essentials/navigation"]
     },
     {
-      "group": "API Documentation",
+      "group": "CDL education",
       "pages": ["api-reference/introduction"]
     },
     {
-      "group": "Endpoint Examples",
+      "group": "CDL types",
       "pages": [
         "api-reference/endpoint/get",
         "api-reference/endpoint/create",
