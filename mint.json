@@ -67,7 +67,7 @@
     },
     {
       "group": "CDL education",
-      "pages": ["api-reference/education"]
+      "pages": ["api-reference/education", "essentials/markdown"]
     },
     {
       "group": "CDL types",
