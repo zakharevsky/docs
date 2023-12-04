@@ -63,7 +63,7 @@
     },
     {
       "group": "CDL types",
-      "pages": ["api-reference/endpoint/get", "api-reference/endpoint/create", "api-reference/endpoint/delete"]
+      "pages": ["cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", "cdl-types/endorsements"]
     },
     {
       "group": "CDL exams",
