@@ -27,49 +27,23 @@
   },
   "primaryTab": {
     "name": "Home"
-},
+  },
   "tabs": [
     {
       "name": "About CDL",
-      "url": "api-reference"
-    }
-    , {
+      "url": "about-cdl-url"
+    },
+    {
       "name": "Latest updates",
-      "url": "api-reference"
-    }
-    , {
+      "url": "latest-updates-url"
+    },
+    {
       "name": "Support",
-      "url": "api-reference"
+      "url": "support-url"
     }
   ],
   "anchors": [
     {
       "name": "CDL practice tests",
       "icon": "book-open-cover",
-      "url": "https://driving-tests.org/cdl-practice-test/"
-    }
-  ],
-  "navigation": [
-    {
-      "group": "Getting a CDL",
-      "pages": ["introduction", "what-is-cdl-definition", "requirements-eligibility", "application-process", "study-materials", "fees-costs"]
-    },
-    {
-      "group": "CDL types",
-      "pages": ["cdl-types/classification", "cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", "cdl-types/endorsements/introduction"]
-    },
-    {
-      "group": "CDL exams",
-      "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings"]
-    },
-    {
-      "group": "Maintaining your CDL",
-      "pages": ["maintain/renew", "maintain/medical-exams", "maintain/upgrades"]
-    },
-
-  "footerSocials": {
-    "twitter": "https://twitter.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
-}
+      "url": "https://driving-tests.org/cdl-practice-test
