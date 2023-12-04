@@ -25,6 +25,9 @@
     "name": "Pass the first time",
     "url": "https://driving-tests.org/cdl-premium/"
   },
+  "primaryTab": {
+    "name": "Home"
+},
   "tabs": [
     {
       "name": "About CDL",
@@ -39,6 +42,9 @@
       "url": "api-reference"
     }
   ],
+  "primaryTab": {
+    "name": "Home"
+},
   "anchors": [
     {
       "name": "Documentation",
