@@ -65,7 +65,7 @@
   "navigation": [
     {
       "group": "Getting a CDL",
-      "pages": ["introduction", "quickstart", "development"]
+      "pages": ["introduction", "application-process", "quickstart", "development"]
     },
     {
       "group": "CDL types",
