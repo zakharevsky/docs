@@ -31,12 +31,8 @@
   "tabs": [
     {
       "name": "About CDL",
-      "url": "about-cdl-url"
+      "url": "cdl-definition"
     },
-    {
-      "name": "Latest updates",
-      "url": "latest-updates-url"
-    }
   ],
   "anchors": [
     {
