@@ -82,10 +82,12 @@
           "pages": [
             "essentials/written-tests/general-knowledge",
             "essentials/written-tests/air-brakes",
-            "essentials/written-tests/combination-vehicles",
+            "essentials/written-tests/combination",
             "essentials/written-tests/hazmat",
             "essentials/written-tests/tankers",
-            "essentials/written-tests/doubles-triples"
+            "essentials/written-tests/doubles-triples",
+            "essentials/written-tests/passenger",
+            "essentials/written-tests/school-bus"
           ]
         },
         "essentials/skills-test",
