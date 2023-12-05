@@ -31,6 +31,10 @@
 
   "tabs": [
     {
+        "name": "How-to articles",
+        "url": "articles/index"
+    },
+    {
         "name": "CDL practice tests",
         "url": "https://driving-tests.org/cdl-practice-test/"
     },
