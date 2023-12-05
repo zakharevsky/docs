@@ -72,6 +72,14 @@
       "pages": ["eldt-certification/overview", "eldt-certification/training-provider-registry"]
     }
   ],
+
+  "articles": [
+    {
+        "group": "How-to suides",
+        "pages": ["articles/index"]
+    }
+],
+
   "footerSocials": {
     "twitter": "https://twitter.com/driving_tests"
   }
