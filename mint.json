@@ -31,31 +31,15 @@
 
   "tabs": [
     {
-        "name": "API References",
-        "url": "cdl-definition"
+        "name": "CDL practice tests",
+        "url": "https://driving-tests.org/cdl-practice-test/"
     },
     {
-        "name": "Content",
-        "url": "application-process"
-    },
-    {
-        "name": "Blog",
-        "url": "https://your-website.com/blog"
+        "name": "CDL manuals",
+        "url": "https://driving-tests.org/cdl-handbooks/"
     }
 ],
 
-  "anchors": [
-    {
-      "name": "CDL practice tests",
-      "icon": "book-open-cover",
-      "url": "https://driving-tests.org/cdl-practice-test/"
-    },
-    {
-      "name": "CDL manuals by state",
-      "icon": "book-open-cover",
-      "url": "https://driving-tests.org/cdl-handbooks/"
-    }
-  ],
   "navigation": [
     {
       "group": "Getting a CDL",
