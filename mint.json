@@ -29,6 +29,21 @@
     "name": "Home"
   },
 
+  "tabs": [
+    {
+        "name": "API References",
+        "url": "cdl-definition"
+    },
+    {
+        "name": "Content",
+        "url": "application-process"
+    },
+    {
+        "name": "Blog",
+        "url": "https://your-website.com/blog"
+    }
+]
+
   "anchors": [
     {
       "name": "CDL practice tests",
