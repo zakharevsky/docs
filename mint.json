@@ -63,7 +63,7 @@
     },
     {
       "group": "ELDT certification",
-      "pages": ["eldt-certification/overview"]
+      "pages": ["eldt-certification/overview", "eldt-certification/training-provider-registry"]
     }
   ],
   "footerSocials": {
