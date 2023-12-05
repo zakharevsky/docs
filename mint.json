@@ -28,58 +28,95 @@
   "primaryTab": {
     "name": "Home"
   },
-
   "tabs": [
     {
-        "name": "How-to articles",
-        "url": "articles"
+      "name": "How-to articles",
+      "url": "articles/index"
     },
     {
-        "name": "CDL practice tests",
-        "url": "https://driving-tests.org/cdl-practice-test/"
+      "name": "CDL practice tests",
+      "url": "https://driving-tests.org/cdl-practice-test/"
     },
     {
-        "name": "CDL manuals",
-        "url": "https://driving-tests.org/cdl-handbooks/"
+      "name": "CDL manuals",
+      "url": "https://driving-tests.org/cdl-handbooks/"
     }
-],
-
+  ],
   "navigation": [
     {
       "group": "Getting a CDL",
-      "pages": ["introduction", "cdl-definition", "requirements-eligibility", "application-process", "study-materials", "fees-costs"]
+      "pages": [
+        "introduction",
+        "cdl-definition",
+        "requirements-eligibility",
+        "application-process",
+        "study-materials",
+        "fees-costs"
+      ]
     },
     {
       "group": "CDL types",
-      "pages": ["cdl-types/classification", "cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", {"group": "Endorsements & restrictions",
-      "pages": ["cdl-types/endorsements/introduction", "cdl-types/endorsements/air-brakes", "cdl-types/endorsements/hazmat", "cdl-types/endorsements/passenger", "cdl-types/endorsements/school-bus", "cdl-types/endorsements/tanker"]
-    }]
-    },
-     {
-      "group": "ELDT certification",
-      "pages": ["eldt/overview", "training-provider-registry"]
+      "pages": [
+        "cdl-types/classification",
+        "cdl-types/class-a-cdl",
+        "cdl-types/class-b-cdl",
+        "cdl-types/class-c-cdl",
+        {
+          "group": "Endorsements & restrictions",
+          "pages": [
+            "cdl-types/endorsements/introduction",
+            "cdl-types/endorsements/air-brakes",
+            "cdl-types/endorsements/hazmat",
+            "cdl-types/endorsements/passenger",
+            "cdl-types/endorsements/school-bus",
+            "cdl-types/endorsements/tanker"
+          ]
+        }
+      ]
     },
     {
       "group": "CDL exams",
-      "pages": ["essentials/written-tests", "essentials/skills-test", "essentials/practice-tests", "essentials/retake-policy"]
+      "pages": [
+        {
+          "group": "Written tests",
+          "pages": [
+            "essentials/written-tests/general-knowledge",
+            "essentials/written-tests/air-brakes",
+            "essentials/written-tests/combination-vehicles",
+            "essentials/written-tests/hazmat",
+            "essentials/written-tests/tankers",
+            "essentials/written-tests/doubles-triples"
+          ]
+        },
+        "essentials/skills-test",
+        "essentials/practice-tests",
+        "essentials/retake-policy"
+      ]
     },
     {
       "group": "Maintaining your CDL",
-      "pages": ["maintain/renew", "maintain/medical-exams", "maintain/upgrades"]
+      "pages": [
+        "maintain/renewal",
+        "maintain/medical-exams",
+        "maintain/upgrades"
+      ]
     },
     {
       "group": "ELDT certification",
-      "pages": ["eldt-certification/overview", "eldt-certification/training-provider-registry"]
+      "pages": [
+        "eldt-certification/overview",
+        "eldt-certification/training-provider-registry"
+      ]
     }
   ],
-
   "articles": [
     {
-        "group": "How-to suides",
-        "pages": ["articles/index"]
+      "group": "How-to guides",
+      "pages": [
+        "articles/index"
+      ]
     }
-],
-
+  ],
   "footerSocials": {
     "twitter": "https://twitter.com/driving_tests"
   }
