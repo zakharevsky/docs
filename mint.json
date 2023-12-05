@@ -28,12 +28,7 @@
   "primaryTab": {
     "name": "Home"
   },
-  "tabs": [
-    {
-      "name": "About CDL",
-      "url": "https://cdl.driving-tests.org/cdl-definition"
-    }
-  ],
+
   "anchors": [
     {
       "name": "CDL practice tests",
