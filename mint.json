@@ -60,6 +60,10 @@
     {
       "group": "Maintaining your CDL",
       "pages": ["maintain/renew", "maintain/medical-exams", "maintain/upgrades"]
+    },
+    {
+      "group": "ELDT certification",
+      "pages": ["eldt-certification/overview"]
     }
   ],
   "footerSocials": {
