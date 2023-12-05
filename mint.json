@@ -54,6 +54,10 @@
       "group": "CDL types",
       "pages": ["cdl-types/classification", "cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", "cdl-types/endorsements/introduction"]
     },
+     {
+      "group": "ELDT certification",
+      "pages": ["eldt/overview"]
+    },
     {
       "group": "CDL exams",
       "pages": ["essentials/markdown", "essentials/code", "essentials/images", "essentials/settings"]
