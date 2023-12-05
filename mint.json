@@ -51,7 +51,7 @@
     },
      {
       "group": "ELDT certification",
-      "pages": ["eldt/overview"]
+      "pages": ["eldt/overview", "training-provider-registry"]
     },
     {
       "group": "CDL exams",
