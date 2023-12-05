@@ -47,8 +47,8 @@
     },
     {
       "group": "CDL types",
-      "pages": ["cdl-types/classification", "cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", "cdl-types/endorsements/introduction", {"group": "CDL types",
-      "pages": ["cdl-types/classification", "cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", "cdl-types/endorsements/introduction"]
+      "pages": ["cdl-types/classification", "cdl-types/class-a-cdl", "cdl-types/class-b-cdl", "cdl-types/class-c-cdl", "cdl-types/endorsements/introduction", {"group": "CDL endorsements",
+      "pages": ["cdl-types/endorsements/air-brakes", "cdl-types/endorsements/hazmat", "cdl-types/endorsements/passenger", "cdl-types/endorsements/school-bus", "cdl-types/endorsements/tanker"]
     }]
     },
      {
