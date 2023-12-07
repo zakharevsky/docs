@@ -17,8 +17,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Support",
-      "url": "mailto:info@driving-tests.org"
+      "name": "Back to main site",
+      "url": "https://driving-tests.org"
     }
   ],
   "topbarCtaButton": {
