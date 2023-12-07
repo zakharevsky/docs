@@ -109,6 +109,7 @@
       "pages": [
         "maintain/renew",
         "maintain/medical-exams",
+        "maintain/dot-physical-exam",
         "maintain/upgrade"
       ]
     },
