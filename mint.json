@@ -5,6 +5,7 @@
         "domain": "driving-tests.org"
                   }
     },
+    "feedback.thumbsRating": true,
   "name": "CDL (Commercial Driver's License) | Driving-Tests.org",
   "logo": {
     "dark": "/logo/dt-small-fill.svg",
