@@ -11,7 +11,7 @@
     "dark": "/logo/dt-small-fill.svg",
     "light": "/logo/dt-small-fill.svg"
   },
-  "favicon": "images/dto-favicon.svg",
+  "favicon": "/dto-favicon.svg",
   "colors": {
     "primary": "#0D9373",
     "light": "#07C983",
