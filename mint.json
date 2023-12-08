@@ -84,10 +84,7 @@
   {
   "group": "Endorsements & Restrictions",
   "pages": [
-    {
-      "group": "Endorsement Overview",
-      "pages": ["cdl-types/endorsements/introduction"]
-    },
+    "cdl-types/endorsements/introduction",
     {
       "group": "Specific Endorsements",
       "pages": [
