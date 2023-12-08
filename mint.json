@@ -127,6 +127,7 @@
 
          "essentials/practice-tests",
          "essentials/tsa-background-check",
+         "cdl-types/endorsements/tsa-background-check",
          "essentials/retake-policy"
     ]
   },
