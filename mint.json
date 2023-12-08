@@ -83,10 +83,13 @@
   {
     "group": "Endorsements & Restrictions",
     "pages": [
-      "cdl-types/endorsements/introduction",
-      "cdl-types/endorsements/air-brakes",
-      "cdl-types/endorsements/hazmat",
-      // Other endorsement pages
+       "cdl-types/endorsements/introduction",
+        "cdl-types/endorsements/air-brakes",
+            "cdl-types/endorsements/hazmat",
+            "cdl-types/endorsements/passenger",
+            "cdl-types/endorsements/school-bus",
+            "cdl-types/endorsements/tanker",
+            "cdl-types/endorsements/doubles-triples"
     ]
   },
   {
