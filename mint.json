@@ -80,18 +80,27 @@
       }
     ]
   },
+
   {
-    "group": "Endorsements & Restrictions",
-    "pages": [
-       "cdl-types/endorsements/introduction",
+  "group": "Endorsements & Restrictions",
+  "pages": [
+    {
+      "group": "Endorsement Overview",
+      "pages": ["cdl-types/endorsements/introduction"]
+    },
+    {
+      "group": "Specific Endorsements",
+      "pages": [
         "cdl-types/endorsements/air-brakes",
-            "cdl-types/endorsements/hazmat",
-            "cdl-types/endorsements/passenger",
-            "cdl-types/endorsements/school-bus",
-            "cdl-types/endorsements/tanker",
-            "cdl-types/endorsements/doubles-triples"
-    ]
-  },
+        "cdl-types/endorsements/hazmat",
+        "cdl-types/endorsements/passenger",
+        "cdl-types/endorsements/school-bus",
+        "cdl-types/endorsements/tanker",
+        "cdl-types/endorsements/doubles-triples"
+      ]
+    }
+  ]
+},
   {
     "group": "CDL Exam Preparation",
     "pages": [
