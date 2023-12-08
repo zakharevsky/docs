@@ -101,13 +101,10 @@
   {
     "group": "CDL Exam Preparation",
     "pages": [
-      "essentials/written-tests/overview",
-       {
-      "group": "CDL exams",
-      "pages": [
-        {
-          "group": "Written tests",
-          "pages": [
+      "essentials/written-tests/overview",      
+      {
+        "group": "Written tests",
+        "pages": [
             "essentials/written-tests/overview",
             "essentials/written-tests/general-knowledge",
             "essentials/written-tests/air-brakes",
@@ -117,19 +114,13 @@
             "essentials/written-tests/doubles-triples",
             "essentials/written-tests/passenger",
             "essentials/written-tests/school-bus"
-          ]
-        },
-      
-      {
-        "group": "Tests & Skills",
-        "pages": [
-          "essentials/skills-test",
+        ]
+      },
+        "essentials/skills-test",
           "essentials/pre-trip",
           "essentials/practice-tests",
           "essentials/tsa-background-check",
           "essentials/retake-policy"
-        ]
-      }
     ]
   },
   {
