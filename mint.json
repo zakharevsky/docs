@@ -101,11 +101,11 @@
   {
     "group": "CDL Exam Preparation",
     "pages": [
-      "essentials/written-tests/overview",   
-      {
-        "group": "Tests & Skills",
-        "pages": [
-          "essentials/written-tests/overview",
+      "essentials/written-tests/overview",
+       {
+      "group": "Written exams",
+      "pages": [
+        "essentials/written-tests/overview",
         "essentials/written-tests/general-knowledge",
         "essentials/written-tests/air-brakes",
         "essentials/written-tests/combination",
@@ -113,7 +113,14 @@
         "essentials/written-tests/tankers",
         "essentials/written-tests/doubles-triples",
         "essentials/written-tests/passenger",
-        "essentials/written-tests/school-bus",
+        "essentials/written-tests/school-bus"
+        
+          ]
+        },
+      
+      {
+        "group": "Practical exams",
+        "pages": [
           "essentials/skills-test",
           "essentials/pre-trip",
           "essentials/practice-tests",
