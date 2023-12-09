@@ -141,7 +141,8 @@
   {
     "group": "ELDT Training & Certification",
     "pages": [
-      "eldt-certification/overview",
+      "eldt-certification/eldt-training",
+      "eldt-certification/eldt-certificate",
       "eldt-certification/training-provider-registry"
     ]
   },
