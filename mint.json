@@ -144,16 +144,16 @@
       "eldt-certification/overview",
       "eldt-certification/training-provider-registry"
     ]
-  }
-],
-  "articles": [
-    {
-      "group": "How-to guides",
+  },
+  {
+      "group": "CDL how-to guides",
       "pages": [
-        "articles/start"
+        "articles/start",
+        "articles/become-owner-operator",
+        "articles/truck-owner-operator"
       ]
     }
-  ],
+],
   "footerSocials": {
     "twitter": "https://twitter.com/driving_tests"
   }
