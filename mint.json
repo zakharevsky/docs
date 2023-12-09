@@ -37,7 +37,7 @@
   "tabs": [
     {
       "name": "How-to articles",
-      "url": "articles/index"
+      "url": "articles/start"
     },
     {
       "name": "CDL practice tests",
@@ -150,7 +150,7 @@
     {
       "group": "How-to guides",
       "pages": [
-        "articles/index"
+        "articles/start"
       ]
     }
   ],
