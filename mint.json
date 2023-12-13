@@ -14,7 +14,7 @@
   "favicon": "/dto-favicon.svg",
   "colors": {
     "primary": "#007AFF",
-    "light": "#07C983",
+    "light": "#007AFF",
     "dark": "#007AFF",
     "anchors": {
       "from": "#0D9373",
